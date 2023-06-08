@@ -1,0 +1,19 @@
+
+.table_Mov{
+    border: solid 1px black;
+    background-color: rgb(225, 237, 244);
+}
+.table_Mov th{
+    border: solid 1px black;
+    border-radius: 4px;
+    background-color: rgb(174, 210, 211);
+    color: rgb(91, 91, 206);
+}
+.table_Mov td{
+    border: 0;
+    padding: 5px;
+    border: solid 1px black;
+}
+.liryc{
+    font-weight: 700;
+}
